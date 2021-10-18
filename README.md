@@ -4,6 +4,8 @@
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/cagfa1/continuous-integration-course?branch=main)](https://bettercodehub.com/)
 
+https://ci-course2.readthedocs.io/en/latest/
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
